@@ -1,2 +1,1 @@
-Git-hub use
-This repository is for learning 
+GIT-HUB REPOSITORY FOR LEARNERS
