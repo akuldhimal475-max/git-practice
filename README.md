@@ -1,2 +1,1 @@
-#Git Practice Repo
-This repository is for learning 
+GIT-HUB REPOSITORY FOR LEARNERS
